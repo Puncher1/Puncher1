@@ -7,6 +7,6 @@
 
 <samp>
   
-  I enjoy working on web development and Python projects.
+  I enjoy working on web and Python projects.
   
   👇 Check out some of the pinned projects I've worked on below.
